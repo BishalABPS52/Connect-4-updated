@@ -25,4 +25,4 @@
 ## 🔧 Installation
 1. Clone the repository.
    ```bash
-   git clone https://github.com/BishalABPS52/connect-4
+   git clone https://github.com/BishalABPS52/Connect-4-updated/
